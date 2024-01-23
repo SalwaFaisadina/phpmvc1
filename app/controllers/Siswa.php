@@ -2,7 +2,7 @@
 
 class Siswa extends Controller{
 
-        // public $data = ['title' => 'Siswa'];
+        public $data = ['title' => 'Siswa'];
 
         public function index()
         {
